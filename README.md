@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sharadsisodia222@gmail.com**
 
-- ⚡ Fun fact **I’m not only a coder; I’m also a secret pastry chef. My cupcakes have more layers than my neural networks.😎🤣**
+- ⚡ Fun fact **I’m not only a coder; I’m also a secret pastry chef. My cupcakes have more layers than your neural networks.😎🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
