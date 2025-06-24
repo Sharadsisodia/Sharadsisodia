@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **Python, Java, JavaScript, HTML, CSS, MySql, MongoDB, OpenCV**
+- 💬 Ask me about **Python, C++, JavaScript, HTML, CSS, MySql, MongoDB, OpenCV**
 
 - 📫 How to reach me **sharadsisodia222@gmail.com**
 
